@@ -1,17 +1,14 @@
-### Hi there 👋
-
-<!--
-**Prashantpanwar2504/Prashantpanwar2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is what I'm Currently Working on 👋
+ 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Instagram Clone
 - 🌱 I’m currently learning ... DataStructure and ALgorithim
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ... Django Framework
+- 🤔 I’m looking for help with ... DSA
+- 💬 Ask me about ... Anythiing
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am Half finish
 -->
  
