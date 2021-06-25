@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Panwar</h1>
-<h3 align="center">Alot to know, Alot to Discuss</h3>
+<h3 align="center">Alot to know, Alot to Discuss As Always!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpanwar2504&label=Profile%20views&color=0e75b6&style=flat" alt="prashantpanwar2504" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prashantpanwar423361@gmail.com**
 
-- ⚡ Fun fact **I say more dumbthings before 9AM than most people say all day.**
+- ⚡ Fun fact **I say more dumb things before 9AM than most people say all day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
