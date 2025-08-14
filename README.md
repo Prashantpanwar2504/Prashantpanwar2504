@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpanwar2504&label=Profile%20views&color=0e75b6&style=flat" alt="prashantpanwar2504" /> </p>
 
-- 🔭 I’m currently working on **Instagram Clone**
+- 🔭 I’m currently working on **Credit Fraud Detection Related to the 2008 Financial Crisis – Analyzed fraudulent lending practices and misrepresentation of mortgage-backed securities that fueled the U.S. housing bubble and contributed to the economic collapse.**
 
-- 🌱 I’m currently learning **Django framework and DSA**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 📫 How to reach me **prashantpanwar423361@gmail.com**
 
